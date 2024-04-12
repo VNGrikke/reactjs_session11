@@ -1,4 +1,5 @@
 class Shape2 {
+    calculatePerimeter(): number;
     calculatePerimeter(width: number, height: number): number;
     calculatePerimeter(radius: number): number;
 
